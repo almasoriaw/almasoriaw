@@ -26,8 +26,8 @@ Welcome to my GitHub! I’m passionate about learning and building solutions in 
 
 ## 📈 GitHub Stats  
 
-![Alma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Alma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=almasoriaw&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=almasoriaw&layout=compact&theme=radical)
 
 ---
 
