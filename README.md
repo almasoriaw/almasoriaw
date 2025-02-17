@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Alma Soria!
 
-** 📊 Machine Learning Analyst Student | Google Certified Professional Cloud Architect | 🌦 DevOps Enthusiast | 🎓 BSc Biopharmaceutical Chemistry **
+📊 Machine Learning Analyst Student | Google Certified Professional Cloud Architect | 🌦 DevOps Enthusiast | 🎓 BSc Biopharmaceutical Chemistry
 
 Welcome to my GitHub! I’m passionate about learning and building solutions in cloud computing, DevOps, and machine learning. I’m currently pursuing a **Machine Learning Analyst Diploma** and working on exciting projects in cloud technologies and data analytics.
 
