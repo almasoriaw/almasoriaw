@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Alma Soria!
 
-📊 Machine Learning Analyst Student | Google Certified Professional Cloud Architect | 🌦 DevOps Enthusiast | 🎓 BSc Biopharmaceutical Chemistry
+📊 Machine Learning Analyst Student | Google Certified Professional Cloud Architect | 🌦 DevOps Enthusiast
 
 Welcome to my GitHub! I’m passionate about learning and building solutions in cloud computing, DevOps, and machine learning. I’m currently pursuing a **Machine Learning Analyst Diploma** and working on exciting projects in cloud technologies and data analytics.
 
@@ -21,7 +21,7 @@ Welcome to my GitHub! I’m passionate about learning and building solutions in 
 ## ✨ Fun Facts:
 - I’m originally from **Guadalajara, Jalisco, Mexico**, and I’m now a **Canadian citizen**. 🇲🇽 → 🇨🇦  
 - My personality type is **INFJ-T (Advocate)**, and I love helping others while solving complex problems!  
-
+- I earned my Bachelor’s degree in Biopharmaceutical Chemistry from the University of Guadalajara. Since my degree isn’t recognized in Canada, I decided to shift into computer science, applying my analytical skills to build a new career in tech.
 ---
 
 ## 📈 GitHub Stats  
