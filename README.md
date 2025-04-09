@@ -13,7 +13,7 @@ Welcome to my GitHub! I’m passionate about learning and building solutions in 
 ## 🌟 Current Working Projects:
 - 📊 **Weather Impact on Fluid Transfer Operations**  
   Analyzing and building predictive models for equipment efficiency and fault prediction using weather and operational data. 
-- Check my projects in the section below =)
+- Check my projects in the **Pinned** section below =)
   
 ## 📚 Certifications:
 - AI Programming with Python – **Udacity AWS AI & ML Scholarship Recipient**  
