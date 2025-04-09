@@ -10,10 +10,11 @@ Welcome to my GitHub! I’m passionate about learning and building solutions in 
 - **Data & Machine Learning:** Python, SQL, Pandas, PyTorch, Scikit-learn
 - **Web Development:** HTML, CSS, JavaScript (basic knowledge)
 
-## 🌟 Current Projects:
+## 🌟 Current Working Projects:
 - 📊 **Weather Impact on Fluid Transfer Operations**  
   Analyzing and building predictive models for equipment efficiency and fault prediction using weather and operational data. 
-
+- Check my projects in the section below =)
+  
 ## 📚 Certifications:
 - AI Programming with Python – **Udacity AWS AI & ML Scholarship Recipient**  
 - Google Certified Professional Cloud Architect - Dec. 2024 - Dec 2026
