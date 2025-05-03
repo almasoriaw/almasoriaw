@@ -6,7 +6,7 @@ Welcome to my GitHub! I’m passionate about learning and building solutions in 
 
 ## 🔧 My Skills & Interests:
 - **Cloud Computing:** AWS, Google Cloud Platform (GCP)
-- **DevOps Tools:** CloudFormation, Docker, Kubernetes, Terraform, CI/CD, Vagrant, Maven, Jenkins
+- **DevOps Tools:** Docker, Kubernetes, Terraform, CI/CD, Vagrant, Maven, Jenkins
 - **Data & Machine Learning:** Python, SQL, Pandas, PyTorch, Scikit-learn
 - **Web Development:** HTML, CSS, JavaScript (basic knowledge)
 
