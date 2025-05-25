@@ -4,7 +4,7 @@
 
 Welcome to my GitHub! I'm passionate about exploring technology, especially Machine Learning, Artificial Intelligence, and Cloud Computing (both Architecting & DevOps).
 
-I'm fascinated by ML and AI because their developmental stages mirror the growth of human cognition. Reinforcement Learning reminds me that, like machines, we can learn and grow through experience and feedback. I love DevOps not just for its technical impact, but also for its philosophical reminder: continuous integration and improvement aren’t just for software,  they’re essential for becoming better versions of ourselves.
+I'm fascinated by ML and AI because their developmental stages mirror the growth of human cognition. Reinforcement Learning reminds me that, like machines, we can learn and grow through experience and feedback. Also, I love DevOps not just for its technical impact, but also for its philosophical reminder: continuous integration and improvement aren’t just for software,  they’re essential for becoming better versions of ourselves.
 
 I'm currently pursuing a Machine Learning Analyst Diploma and always learning on my free time about cloud technologies and data analytics.
 
