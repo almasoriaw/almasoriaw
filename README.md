@@ -10,7 +10,7 @@ I'm currently pursuing a Machine Learning Analyst Diploma and always learning on
 
 ## 🔧 My Skills & Interests:
 - **Cloud Computing:** AWS, Google Cloud Platform (GCP)
-- **DevOps Tools:** Docker, Kubernetes, Terraform, CI/CD, Vagrant, Maven, Jenkins
+- **DevOps Tools:** Docker, Kubernetes, Terraform, CI/CD, Vagrant, Maven, Jenkins in-TRAINING!
 - **Data & Machine Learning:** Python, SQL, Pandas, PyTorch, Scikit-learn
 - **Web Development:** HTML, CSS, JavaScript (very basic knowledge)
 
@@ -39,15 +39,13 @@ I'm currently pursuing a Machine Learning Analyst Diploma and always learning on
 
 ---
 
-### 📷 Almagram App – High-Availability Instagram Clone on AWS  
+### 📷 Almagram App – High-Availability Instagram Clone on AWS  (Instagram-like app prototype only)
 
-**Tools**: AWS, CloudFormation, CI/CD, EC2, RDS, CloudWatch
+**Tools**: AWS, CloudFormation, CI/CD, EC2, S3, CloudFront, VPC, IAM
 
-- Designed and deployed a scalable, Instagram-like app using **Infrastructure as Code** (CloudFormation).  
-- Implemented **Auto Scaling** EC2 instances and **RDS** for reliable, scalable database backends.  
-- Built a complete **CI/CD pipeline** for automated testing and deployment, enhancing system uptime.  
-- Integrated **CloudWatch** for real-time logging, health monitoring, and alerting.  
-- Secured the environment using **IAM roles**, **VPC**, and **security groups**.
+- Designed and deployed a scalable Instagram-like application prototype using CloudFormation with auto-scaling EC2 instances behind an Application Load Balancer.
+- Configured S3 and CloudFront for efficient static content delivery, improving load times and scalability.  
+- Implemented role-based IAM access controls and secured the environment networking via VPC, NAT gateways, and security groups
 
 ---
   
