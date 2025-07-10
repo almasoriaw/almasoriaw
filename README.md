@@ -34,7 +34,7 @@ I'm currently pursuing a Machine Learning Analyst Diploma and always learning on
 - Cleaned and transformed 700K+ environmental records from Canada’s **National Pollutant Release Inventory (NPRI)**.  
 - Resolved complex location issues using reverse geocoding to infer missing city data, with fallbacks to provincial capitals.  
 - Engineered time-series features to model 5-year emission growth/decline trends across industries.  
-- Built and evaluated Random Forest and Linear Regression models (R², MAE, MSE) with residual diagnostics.  
+- Built and evaluated Random Forest and Linear Regression models (R², MAE, MSE).
 - Visualized pollutant trends, residuals, and geographic emission patterns for interpretability and validation.
 
 ---
