@@ -4,7 +4,7 @@
 
 Welcome to my GitHub! I'm passionate about exploring technology, especially Machine Learning, Artificial Intelligence, and Cloud Computing (both Architecting & DevOps).
 
-I'm captivated by ML and AI because their developmental stages mirror the growth of human cognition. Reinforcement Learning reminds me that, like machines, we can learn and grow through experience and feedback. Also, I love and find fascinating DevOps not just for its technical impact, but also for its philosophical reminder: continuous integration and improvement aren’t just for software,  they’re essential for becoming better versions of ourselves.
+I'm captivated by ML and AI because their developmental stages mirror the growth of human cognition. Reinforcement Learning reminds me that, like machines, we can learn and grow through experience and feedback. Also, I love and find fascinating DevOps not just for its technical impact, but also for its philosophical reminder: continuous integration and improvement aren’t just for software, they’re essential for becoming better versions of ourselves iteration by iteration.
 
 I'm currently pursuing a Machine Learning Analyst Diploma and always learning on my free time about cloud technologies and data analytics.
 
@@ -12,7 +12,7 @@ I'm currently pursuing a Machine Learning Analyst Diploma and always learning on
 - **Cloud Computing:** AWS, Google Cloud Platform (GCP)
 - **DevOps Tools:** Docker, Kubernetes, Terraform, CI/CD, Vagrant, Maven, Jenkins
 - **Data & Machine Learning:** Python, SQL, Pandas, PyTorch, Scikit-learn
-- **Web Development:** HTML, CSS, JavaScript (basic knowledge)
+- **Web Development:** HTML, CSS, JavaScript (very basic knowledge)
 
 ## 🌟 Some Projects:
 
