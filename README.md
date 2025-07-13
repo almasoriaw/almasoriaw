@@ -46,9 +46,16 @@ I'm currently pursuing a Machine Learning Analyst Diploma and always learning on
 - Designed and deployed a scalable Instagram-like application prototype using CloudFormation with auto-scaling EC2 instances behind an Application Load Balancer.
 - Configured S3 and CloudFront for efficient static content delivery, improving load times and scalability.  
 - Implemented role-based IAM access controls and secured the environment networking via VPC, NAT gateways, and security groups.
+---
+###  🏢 Operationalize a Co-Working Space Analytics Microservice with EKS (DevOps on AWS)
+**Tools**: Flask, PostgreSQL, Docker, Kubernetes, EKS, ECR, CodeBuild, CloudWatch
+
+- Built and containerized a Flask analytics API; deployed via Kubernetes to AWS EKS with external access on port 5153.
+- Set up CI/CD using AWS CodeBuild and ECR to automate Docker builds and image pushes.
+- Used Kubernetes ConfigMaps, Secrets, and health probes for secure, stable deployment.
+- Enabled real-time logging with CloudWatch Container Insights and seeded PostgreSQL with test data.
 
 ---
-  
 ## 📚 Certifications:
 - AI Programming with Python – **Udacity AWS AI & ML Scholarship Recipient**  
 - Google Certified Professional Cloud Architect - Dec. 2024 - Dec 2026
