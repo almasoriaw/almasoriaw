@@ -50,10 +50,10 @@ I'm currently pursuing a Machine Learning Analyst Diploma and always learning on
 ###  🏢 Operationalize a Co-Working Space Analytics Microservice with EKS (DevOps on AWS)
 **Tools**: Flask, PostgreSQL, Docker, Kubernetes, EKS, ECR, CodeBuild, CloudWatch
 
-- Built and containerized a Flask analytics API; deployed via Kubernetes to AWS EKS with external access on port 5153.
-- Set up CI/CD using AWS CodeBuild and ECR to automate Docker builds and image pushes.
-- Used Kubernetes ConfigMaps, Secrets, and health probes for secure, stable deployment.
-- Enabled real-time logging with CloudWatch Container Insights and seeded PostgreSQL with test data.
+- Built and containerized a Flask analytics API; deployed on AWS EKS with public access via LoadBalancer.
+- Automated builds and Docker image pushes to ECR using AWS CodeBuild.
+- Secured deployments using Kubernetes ConfigMaps, Secrets, and liveness/readiness probes.
+- Enabled real-time monitoring through CloudWatch Container Insights.
 
 ---
 ## 📚 Certifications:
