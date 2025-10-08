@@ -90,7 +90,6 @@ shaping technology that uplifts, empowers, and respects humanity.
 
 ## 📫 How to Reach Me:
 - **LinkedIn:** [linkedin.com/in/almasoria](https://www.linkedin.com/in/almasoria)  
-- **Email:** alma.soriaw@gmail.com
 
 ---
 
