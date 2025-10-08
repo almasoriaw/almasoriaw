@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Alma Soria!
 
-📊 Machine Learning Analyst Student | Google Certified Professional Cloud Architect | 🌦 DevOps Enthusiast
+📊 Data Engineer | Machine Learning Analyst Diploma | Google Certified Professional Cloud Architect | 🌦 DevOps Enthusiast
 
-Welcome to my GitHub! I'm passionate about exploring technology, especially Machine Learning, Artificial Intelligence, and Cloud Computing (both Architecting & DevOps).
+Welcome to my GitHub! I'm passionate about exploring technology, especially all things DATA!, Machine Learning, AI, and Cloud Computing.
 
 I'm captivated by ML and AI because their developmental stages mirror the growth of human cognition. Reinforcement Learning reminds me that, like machines, we can learn and grow through experience and feedback. Also, I love and find fascinating DevOps not just for its technical impact, but also for its philosophical reminder: continuous integration and improvement aren’t just for software, they’re essential for becoming better versions of ourselves iteration by iteration.
 
