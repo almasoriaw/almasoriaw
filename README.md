@@ -4,8 +4,11 @@
 
 Welcome to my GitHub! I'm passionate about exploring technology, especially all things DATA!, Machine Learning, AI, and Cloud Computing.
 
-I'm captivated by ML and AI because their developmental stages mirror the growth of human cognition. Reinforcement Learning reminds me that, like machines, we can learn and grow through experience and feedback. Also, I love and find fascinating DevOps not just for its technical impact, but also for its philosophical reminder: continuous integration and improvement aren’t just for software, they’re essential for becoming better versions of ourselves iteration by iteration.
+I'm captivated by ML and AI because their developmental stages mirror the growth of human cognition. Reinforcement Learning reminds me that, like machines, we can learn and grow through experience and feedback.
 
+I'm now stepping into Data Engineering, where I’m excited to strengthen my skills in building data pipelines, structuring information for analytics, and supporting scalable ML systems. I see data engineering as the connective tissue between raw data and meaningful insights, a space where creativity meets engineering.
+
+I also find DevOps fascinating, not just for its technical impact, but for its philosophical reminder: continuous integration and improvement aren’t just for software, they’re essential for becoming better versions of ourselves, iteration by iteration.
 I'm currently pursuing a Machine Learning Analyst Diploma and always learning on my free time about cloud technologies and data analytics.
 
 ## 🔧 My Skills & Interests:
